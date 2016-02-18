@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "S:\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_items.xml",
+        "source": "S:\\ch09_ex4_NewsReader_new-master\\app\\src\\main\\res\\layout\\activity_items.xml"
+    },
+    {
+        "merged": "S:\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item.xml",
+        "source": "S:\\ch09_ex4_NewsReader_new-master\\app\\src\\main\\res\\layout\\fragment_item.xml"
+    },
+    {
+        "merged": "S:\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "S:\\ch09_ex4_NewsReader_new-master\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "S:\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_items.xml",
+        "source": "S:\\ch09_ex4_NewsReader_new-master\\app\\src\\main\\res\\layout\\fragment_items.xml"
+    },
+    {
+        "merged": "S:\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item.xml",
+        "source": "S:\\ch09_ex4_NewsReader_new-master\\app\\src\\main\\res\\layout\\activity_item.xml"
+    }
+]
